@@ -1,0 +1,774 @@
+{
+	"licenses": [
+		{
+			"ASURITE": "aaltman2",
+			"Email Address": "aaltman2@asu.edu",
+			"TableauKey": "TDS5-6FDE-72F0-9633-BBCC"
+		},
+		{
+			"ASURITE": "aawebber",
+			"Email Address": "aawebber@asu.edu",
+			"TableauKey": "TDG1-4C22-7870-6684-47A9"
+		},
+		{
+			"ASURITE": "abrockha",
+			"Email Address": "abrockha@asu.edu",
+			"TableauKey": "TDN8-89F5-5B70-D6AA-2572"
+		},
+		{
+			"ASURITE": "adahl5",
+			"Email Address": "adahl5@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "afattah",
+			"Email Address": "afattah@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "aferoce",
+			"Email Address": "aferoce@asu.edu",
+			"TableauKey": "TDR2-8A34-AE60-395C-6ECE"
+		},
+		{
+			"ASURITE": "ahli1",
+			"Email Address": "Amy.Li@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "akulka55",
+			"Email Address": "akulka55@asu.edu",
+			"TableauKey": "TDH5-064D-8390-CBFF-32D9"
+		},
+		{
+			"ASURITE": "amreicha",
+			"Email Address": "Audrey.Reichard@asu.edu",
+			"TableauKey": "TDRZ-45B4-7200-CF38-C1F8"
+		},
+		{
+			"ASURITE": "alukosus",
+			"Email Address": "Andrew.Lukosus@asu.edu",
+			"TableauKey": "TD2K-4C86-9170-9417-0163"
+		},
+		{
+			"ASURITE": "anabhyan",
+			"Email Address": "anabhyan@asu.edu",
+			"TableauKey": "TD57-78DF-18C0-E1F4-477C"
+		},
+		{
+			"ASURITE": "andymona",
+			"Email Address": "Andy.Stevens@asu.edu",
+			"TableauKey": "TDGQ-8940-1290-7E89-7A53"
+		},
+		{
+			"ASURITE": "anogales",
+			"Email Address": "Ashley.Nogales@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "apumel",
+			"Email Address": "apumel@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "aradatz",
+			"Email Address": "aradatz@asu.edu",
+			"TableauKey": "TDSY-4C60-6BD0-5FE5-E3F8"
+		},
+		{
+			"ASURITE": "arestar",
+			"Email Address": "arestar@asu.edu",
+			"TableauKey": "TDDU-89BE-9160-515E-2FD4"
+		},
+		{
+			"ASURITE": "arg007",
+			"Email Address": "DIANA.AYALA@asu.edu",
+			"TableauKey": "TDPI-0665-5150-41D5-DD90"
+		},
+		{
+			"ASURITE": "arstumpf",
+			"Email Address": "arstumpf@asu.edu",
+			"TableauKey": "TDHH-CCDC-A8C0-A6D8-5948"
+		},
+		{
+			"ASURITE": "asbenne4",
+			"Email Address": "Ashley.S.Bennett@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "asrini30",
+			"Email Address": "asrini30@asu.edu",
+			"TableauKey": "TDJY-AA9B-99C0-143C-DFF8"
+		},
+		{
+			"ASURITE": "bcawthor",
+			"Email Address": "bcawthor@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "bkieser",
+			"Email Address": "Brock.Kieser@asu.edu",
+			"TableauKey": "TCTD-5BD8-4270-FA97-1EBC"
+		},
+		{
+			"ASURITE": "bls4326",
+			"Email Address": "bob.sookvong@asu.edu",
+			"TableauKey": "TDEO-895D-3780-8A80-512E"
+		},
+		{
+			"ASURITE": "bsbrady",
+			"Email Address": "Andrew.Brady@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "cearles",
+			"Email Address": "cearles@asu.edu",
+			"TableauKey": "TDLX-06C7-2060-0538-9671"
+		},
+		{
+			"ASURITE": "chechel",
+			"Email Address": "chechel@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "cjparkhu",
+			"Email Address": "cjparkhu@asu.edu",
+			"TableauKey": "TDUX-89A4-79B0-76AB-9D0A"
+		},
+		{
+			"ASURITE": "ckallof",
+			"Email Address": "ckallof@asu.edu",
+			"TableauKey": "TDH7-4C4D-5900-29F7-7B5E"
+		},
+		{
+			"ASURITE": "ckshaner",
+			"Email Address": "Claire.Shaner@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "cprausch",
+			"Email Address": "Christian.Rauschenbach@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "csteve55",
+			"Email Address": "Caitlin.Stevens@asu.edu",
+			"TableauKey": "TDBN-EC4B-8E30-D834-230C"
+		},
+		{
+			"ASURITE": "crtapsco",
+			"Email Address": "crtapsco@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "darchib1",
+			"Email Address": "darchib1@asu.edu",
+			"TableauKey": " TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "dasulliv",
+			"Email Address": "David.A.Sullivan@asu.edu",
+			"TableauKey": "TD3S-46E2-5170-064B-9ACB"
+		},
+		{
+			"ASURITE": "dbromero",
+			"Email Address": "dbromero@asu.edu",
+			"TableauKey": "TDRQ-F11B-9A30-1325-1FE1"
+		},
+		{
+			"ASURITE": "dcfitzsi",
+			"Email Address": "Daniel.Fitzsimmons@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "dcruecke",
+			"Email Address": "Dixon.Ruecker@asu.edu",
+			"TableauKey": "TDJ0-898D-9650-83FA-34BE"
+		},
+		{
+			"ASURITE": "ddesouz",
+			"Email Address": "ddesouz@asu.edu",
+			"TableauKey": "TC7O-518D-FB70-6C5C-A104"
+		},
+		{
+			"ASURITE": "ddoozan",
+			"Email Address": "ddoozan@asu.edu",
+			"TableauKey": "TDWK-06F6-BBE0-5A2C-3DF3"
+		},
+		{
+			"ASURITE": "dimamura",
+			"Email Address": "dimamura@asu.edu",
+			"TableauKey": "TDSP-F077-1CD0-934B-0881"
+		},
+		{
+			"ASURITE": "djwhitak",
+			"Email Address": "david.whitaker@asu.edu",
+			"TableauKey": "TDOV-7857-7230-BF49-78B8"
+		},
+		{
+			"ASURITE": "dmccarv2",
+			"Email Address": "dmccarv2@asu.edu",
+			"TableauKey": "TDRZ-4C9C-1540-FC4B-A302"
+		},
+		{
+			"ASURITE": "dnmanson",
+			"Email Address": "dnmanson@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "dohall",
+			"Email Address": "Derek.O.Hall@asu.edu",
+			"TableauKey": "TDEJ-BD81-7540-61A4-9945"
+		},
+		{
+			"ASURITE": "dwjones",
+			"Email Address": "dwjones@asu.edu",
+			"TableauKey": "TDPG-4CAF-2810-AF73-0BC1"
+		},
+		{
+			"ASURITE": "eacasey",
+			"Email Address": "Elizabeth.Casey@asu.edu",
+			"TableauKey": "TDQT-7581-9760-D4BD-AFB6"
+		},
+		{
+			"ASURITE": "eangel",
+			"Email Address": "Esmeralda.Angel@asu.edu",
+			"TableauKey": "TDPG-4C37-FC40-99C3-E28F"
+		},
+		{
+			"ASURITE": "edparks",
+			"Email Address": "edparks@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "egoertz",
+			"Email Address": "erin.goertz@asu.edu",
+			"TableauKey": "TDXH-8975-C890-CB17-327C"
+		},
+		{
+			"ASURITE": "ereille1",
+			"Email Address": "ereille1@asu.edu",
+			"TableauKey": "TDRK-EFC0-6350-CE48-2E29"
+		},
+		{
+			"ASURITE": "esitz",
+			"Email Address": "Erin.Sitz@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "ferlin",
+			"Email Address": "pauletta.riggs@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "ffeher",
+			"Email Address": "ffeher@asu.edu",
+			"TableauKey": "TDQV-F106-3D70-4B97-062F"
+		},
+		{
+			"ASURITE": "gemmons",
+			"Email Address": "gemmons@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "ghtillem",
+			"Email Address": "ghtillem@asu.edu",
+			"TableauKey": "TDZJ-B77E-A740-6572-F7D8"
+		},
+		{
+			"ASURITE": "gwallac5",
+			"Email Address": "gwallac5@asu.edu",
+			"TableauKey": "TDXQ-EC68-16E0-2F89-973B"
+		},
+		{
+			"ASURITE": "hghasemi",
+			"Email Address": "hghasemi@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "hssteve1",
+			"Email Address": "Hailey.Stevens@asu.edu",
+			"TableauKey": "TDJN-06B4-0D90-2556-1B26"
+		},
+		{
+			"ASURITE": "jacque99",
+			"Email Address": "jacque99@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "jascolar",
+			"Email Address": "jascolar@asu.edu",
+			"TableauKey": "TCWQ-4559-70A0-7E99-F680"
+		},
+		{
+			"ASURITE": "jbradsh1",
+			"Email Address": "jbradsh1@asu.edu",
+			"TableauKey": "TDAB-F0A9-2950-7B77-CE09"
+		},
+		{
+			"ASURITE": "jbpark3",
+			"Email Address": "Olivia.Park@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "jbspark1",
+			"Email Address": "Jordan.Sparks@asu.edu",
+			"TableauKey": "TD79-3ED9-F770-6D00-A9C9"
+		},
+		{
+			"ASURITE": "jcastle2",
+			"Email Address": "John.Castle@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "jcjohns5",
+			"Email Address": "JoshJohnson@asu.edu",
+			"TableauKey": "TDJ0-0635-8EC0-19F6-EE4F"
+		},
+		{
+			"ASURITE": "jclong7",
+			"Email Address": "Jeff.Long@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "jconsie",
+			"Email Address": "Josh.Consier@asu.edu",
+			"TableauKey": "TDRG-8240-DA70-9CDA-CBE2"
+		},
+		{
+			"ASURITE": "jcorral1",
+			"Email Address": "jcorral1@asu.edu",
+			"TableauKey": "TDIM-4C0C-F4A0-421C-A25F"
+		},
+		{
+			"ASURITE": "jgeiger",
+			"Email Address": "Julie.Geiger@asu.edu",
+			"TableauKey": "TDND-2AB0-B810-27CB-008C"
+		},
+		{
+			"ASURITE": "Jhuffer",
+			"Email Address": "Jhuffer@asu.edu",
+			"TableauKey": "TD4K-DBB9-6020-D49C-64A8"
+		},
+		{
+			"ASURITE": "jjwilken",
+			"Email Address": "Jennifer.Wilken@asu.edu",
+			"TableauKey": "TDKC-4C73-7EA0-1E7D-0C16"
+		},
+		{
+			"ASURITE": "jlwils52",
+			"Email Address": "Jacob.L.Wilson.1@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "jparris8",
+			"Email Address": "jparris8@asu.edu",
+			"TableauKey": "TD3Z-3DDB-9A40-3B7D-7B09"
+		},
+		{
+			"ASURITE": "tpopovic",
+			"Email Address": "tpopovic@asu.edu",
+			"TableauKey": "TDRX-BBFA-A930-0355-A6AB"
+		},
+		{
+			"ASURITE": "jsmit377",
+			"Email Address": "Joanna.Smith.1@asu.edu",
+			"TableauKey": "TDYE-B978-2D50-3B85-4635"
+		},
+		{
+			"ASURITE": "jyarbro",
+			"Email Address": "Jenna.Graham@asu.edu",
+			"TableauKey": "TDFI-06A0-FAC0-9821-B14F"
+		},
+		{
+			"ASURITE": "kberger3",
+			"Email Address": "Kris.Berger@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "kcjjr",
+			"Email Address": "John.Rome@asu.edu",
+			"TableauKey": "TDEZ-1920-C37C-FDC8-4A8B"
+		},
+		{
+			"ASURITE": "kgautam",
+			"Email Address": "kgautam@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "kgjjc",
+			"Email Address": "jjc@asu.edu",
+			"TableauKey": "TDQP-F0D6-7AE0-CC0F-89B0"
+		},
+		{
+			"ASURITE": "kkenned6",
+			"Email Address": "kkenned6@asu.edu",
+			"TableauKey": "TDXA-3EAA-D120-CBC9-5F92"
+		},
+		{
+			"ASURITE": "ktaylo53",
+			"Email Address": "Keirien.Taylor@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "kvasani",
+			"Email Address": "kvasani@asu.edu",
+			"TableauKey": "TC85-359E-A540-2466-B8D3"
+		},
+		{
+			"ASURITE": "lacebuqu",
+			"Email Address": "Lichelle.Acebuque@asu.edu",
+			"TableauKey": "TDFN-A9EC-1160-8D83-6178"
+		},
+		{
+			"ASURITE": "ldai18",
+			"Email Address": "ldai18@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "ljkauffm",
+			"Email Address": "ljkauffm@asu.edu",
+			"TableauKey": "TDUN-BA83-34B0-1C08-4AD1"
+		},
+		{
+			"ASURITE": "lkdonne1",
+			"Email Address": "lkdonne1@asu.edu",
+			"TableauKey": "TD6N-B6F9-2390-A8DC-2B04"
+		},
+		{
+			"ASURITE": "lrcheval",
+			"Email Address": "lrcheval@asu.edu",
+			"TableauKey": "TDYU-4B3D-3720-4098-08D7"
+		},
+		{
+			"ASURITE": "mamccan1",
+			"Email Address": "Mark.McCann@asu.edu",
+			"TableauKey": "TDYO-4FE2-5A20-F773-C9FF"
+		},
+		{
+			"ASURITE": "mariac",
+			"Email Address": "MARIA.CHOMINA@asu.edu",
+			"TableauKey": "TD14-0A98-58C0-42A4-DADE"
+		},
+		{
+			"ASURITE": "mcarrill",
+			"Email Address": "Mary.Carrillo@asu.edu",
+			"TableauKey": "TDUH-7827-D6B0-9313-330E"
+		},
+		{
+			"ASURITE": "mcartag5",
+			"Email Address": "mcartag5@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "dlakshm4",
+			"Email Address": "dlakshm4@asu.edu",
+			"TableauKey": "TD36-3F02-B520-F8CC-E9B6"
+		},
+		{
+			"ASURITE": "mgorla1",
+			"Email Address": "Mario.Gorla@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "mherna40",
+			"Email Address": "Michelle.Hernandez.1@asu.edu",
+			"TableauKey": "TDNV-8218-6AE0-BE09-FEAE"
+		},
+		{
+			"ASURITE": "mjenniso",
+			"Email Address": "mauraJO@asu.edu",
+			"TableauKey": "TDMO-FFFD-1840-58F0-AF8E"
+		},
+		{
+			"ASURITE": "mjdenis1",
+			"Email Address": "Martin.J.Denis@asu.edu",
+			"TableauKey": "TDSR-EFEF-FED0-820C-851A"
+		},
+		{
+			"ASURITE": "mlandin2",
+			"Email Address": "mlandin2@asu.edu",
+			"TableauKey": "TD3R-9B6D-E320-B1C5-D9EE"
+		},
+		{
+			"ASURITE": "mlarson6",
+			"Email Address": "mlarson6@asu.edu",
+			"TableauKey": "TDM4-F0F0-B9A0-9290-0E3C"
+		},
+		{
+			"ASURITE": "mlsegal",
+			"Email Address": "mlsegal@asu.edu",
+			"TableauKey": "TDG2-6F21-8B90-6C17-B986"
+		},
+		{
+			"ASURITE": "mnagelke",
+			"Email Address": "mnagelke@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "mnansari",
+			"Email Address": "nishal.ansari@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "msharke1",
+			"Email Address": "msharke1@asu.edu",
+			"TableauKey": "TDS4-F133-8F00-1351-FE4C"
+		},
+		{
+			"ASURITE": "msplohar",
+			"Email Address": "msplohar@asu.edu",
+			"TableauKey": "TSK3-172A-F150-7EDD-8EF1"
+		},
+		{
+			"ASURITE": "mjfunk1",
+			"Email Address": "Michael.J.Funk@asu.edu",
+			"TableauKey": "TDIL-B808-E5E0-D45F-667D"
+		},
+		{
+			"ASURITE": "mjwils28",
+			"Email Address": "mjwils28@asu.edu",
+			"TableauKey": "TDGF-4CCB-B0C0-515A-1DF5"
+		},
+		{
+			"ASURITE": "mtclemen",
+			"Email Address": "Matthew.T.Clements.edu",
+			"TableauKey": "TDSH-FD2E-F0D0-048B-3FEB"
+		},
+		{
+			"ASURITE": "mtwelker",
+			"Email Address": "mtwelker@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "mvidra1",
+			"Email Address": "matt.vidra@asu.edu",
+			"TableauKey": "TDYM-6635-A270-9A0E-7232"
+		},
+		{
+			"ASURITE": "nahimera",
+			"Email Address": "Nahin.Mostafa@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "nanguyen",
+			"Email Address": "nanguyen@asu.edu",
+			"TableauKey": "TD6H-D730-0730-9630-A7EF"
+		},
+		{
+			"ASURITE": "nazeef",
+			"Email Address": "NAZEEF.EBRAHIM@asu.edu",
+			"TableauKey": "TCXB-2CC6-64D0-BAAC-D463"
+		},
+		{
+			"ASURITE": "ndle3",
+			"Email Address": "Nguyen.D.Le@asu.edu",
+			"TableauKey": "TDQG-46B3-5A80-1408-18E7"
+		},
+		{
+			"ASURITE": "nmathis1",
+			"Email Address": "Nathan.Mathis@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "nsefidda",
+			"Email Address": "Nicholas.Sefiddashti@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "nmplache",
+			"Email Address": "Nicole.Plachecki@asu.edu",
+			"TableauKey": "TDYG-87D4-8AB0-F530-C2F1"
+		},
+		{
+			"ASURITE": "nmaniar",
+			"Email Address": "nmaniar@asu.edu",
+			"TableauKey": "TDFT-891A-6220-8FAF-9C3C"
+		},
+		{
+			"ASURITE": "palvara2",
+			"Email Address": "palvara2@asu.edu",
+			"TableauKey": "TDE8-88FA-CC30-0616-93DE"
+		},
+		{
+			"ASURITE": "parcuria",
+			"Email Address": "parcuria@asu.edu",
+			"TableauKey": "TDRU-B86D-4D00-7808-37CE"
+		},
+		{
+			"ASURITE": "pleonar4",
+			"Email Address": "patt.leonard@asu.edu",
+			"TableauKey": "TDR1-BB01-8C70-D8C7-3C40"
+		},
+		{
+			"ASURITE": "ploredo2",
+			"Email Address": "ploredo2@asu.edu",
+			"TableauKey": "TDO2-067A-D520-48A8-9141"
+		},
+		{
+			"ASURITE": "psamuel2",
+			"Email Address": "psamuel2@asu.edu",
+			"TableauKey": "TD2K-4C86-9170-9417-0163"
+		},
+		{
+			"ASURITE": "pshar119",
+			"Email Address": "Pallavi.Sharma.1@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "qshi24",
+			"Email Address": "qshi24@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "qsong5",
+			"Email Address": "qsong5@asu.edu",
+			"TableauKey": "TDA1-0CBF-8660-354A-B178"
+		},
+		{
+			"ASURITE": "rasmit10",
+			"Email Address": "rasmit10@asu.edu",
+			"TableauKey": "TDX8-7608-E1A0-C5FE-AB04"
+		},
+		{
+			"ASURITE": "rcm7746",
+			"Email Address": "Reuben.Minton@asu.edu",
+			"TableauKey": "TDIN-BCCE-6250-DF7A-2D48"
+		},
+		{
+			"ASURITE": "rhegde4",
+			"Email Address": "Reshma.Gopalkrishna.Hegde@asu.edu",
+			"TableauKey": "TDFS-F048-30F0-5790-8B7E"
+		},
+		{
+			"ASURITE": "rszpara",
+			"Email Address": "Richard.Szpara@asu.edu",
+			"TableauKey": "TDCF-4598-1060-568C-76D6"
+		},
+		{
+			"ASURITE": "rguzman",
+			"Email Address": "Rafael.Guzman@asu.edu",
+			"TableauKey": "TD25-3E86-CE60-AC09-A9A1"
+		},
+		{
+			"ASURITE": "saghafoo",
+			"Email Address": "Suhail.Ghafoor@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "sbrenden",
+			"Email Address": "Scott.Brenden@asu.edu",
+			"TableauKey": "TD2I-DE4C-E7E0-F2FB-A9C4"
+		},
+		{
+			"ASURITE": "scarte24",
+			"Email Address": "scarte24@asu.edu",
+			"TableauKey": "TDSW-BC39-E560-860A-65A6"
+		},
+		{
+			"ASURITE": "sdstephe",
+			"Email Address": "susan.stephens@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "shiggin2",
+			"Email Address": "shiggin2@asu.edu",
+			"TableauKey": "TD10-2698-9E50-BEB7-CEC1"
+		},
+		{
+			"ASURITE": "skoppar4",
+			"Email Address": "skoppar4@asu.edu",
+			"TableauKey": "TD9L-ACE0-B520-035D-381B"
+		},
+		{
+			"ASURITE": "spsrivas",
+			"Email Address": "spsrivas@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "spwhite1",
+			"Email Address": "Steven.White@asu.edu",
+			"TableauKey": "TDNW-068D-E7F0-1887-0159"
+		},
+		{
+			"ASURITE": "sssulli1",
+			"Email Address": "sssulli1@asu.edu",
+			"TableauKey": "TCPB-2191-48A0-119B-1DC2"
+		},
+		{
+			"ASURITE": "syena",
+			"Email Address": "syena@asu.edu",
+			"TableauKey": "TD4E-F073-3890-FEDA-91B4"
+		},
+		{
+			"ASURITE": "tbucha2",
+			"Email Address": "Troy.Buchanan@asu.edu",
+			"TableauKey": "TDNL-88E0-1840-17BE-F97E"
+		},
+		{
+			"ASURITE": "tingram3",
+			"Email Address": "tingram3@asu.edu",
+			"TableauKey": "TDSF-F0C0-F710-A8B9-D796"
+		},
+		{
+			"ASURITE": "tjgeiger",
+			"Email Address": "tjgeiger@asu.edu",
+			"TableauKey": "TD5U-BBAF-CDD0-E24A-90E5"
+		},
+		{
+			"ASURITE": "tkemper",
+			"Email Address": "tkemper@asu.edu",
+			"TableauKey": "TDEC-3E4F-DFE0-D6E6-ABC2"
+		},
+		{
+			"ASURITE": "tnguy260",
+			"Email Address": "tnguy260@asu.edu",
+			"TableauKey": "TDH5-064D-8390-CBFF-32D9"
+		},
+		{
+			"ASURITE": "treyg",
+			"Email Address": "GEORGE.GIBBONS@asu.edu",
+			"TableauKey": "TCDW-5887-A5F0-609E-EB6A"
+		},
+		{
+			"ASURITE": "tseelam",
+			"Email Address": "tseelam@asu.edu",
+			"TableauKey": "TCDW-5887-A5F0-609E-EB6A"
+		},
+		{
+			"ASURITE": "tthuynh3",
+			"Email Address": "tthuynh3@asu.edu",
+			"TableauKey": "TDN8-A98A-9070-6DCD-205E"
+		},
+		{
+			"ASURITE": "vkeim",
+			"Email Address": "Valerie.Keim@asu.edu",
+			"TableauKey": "TDYR-F148-EBC0-59AE-8BAF"
+		},
+		{
+			"ASURITE": "vmaturi",
+			"Email Address": "venkatamaturi23@asu.edu",
+			"TableauKey": "TD7H-3E29-4510-AC2F-233C"
+		},
+		{
+			"ASURITE": "vshourie",
+			"Email Address": "vshourie@asu.edu",
+			"TableauKey": "TD40-F01B-0670-BCC6-0535"
+		},
+		{
+			"ASURITE": "wlsims",
+			"Email Address": "Walter.Sims@asu.edu",
+			"TableauKey": "TDP6-CE77-81B0-911C-92B0"
+		},
+		{
+			"ASURITE": "yjin115",
+			"Email Address": "Yushan.Jin@asu.edu",
+			"TableauKey": "TCDW-5887-A5F0-609E-EB6A"
+		},
+		{
+			"ASURITE": "zrong3",
+			"Email Address": "Zihong.Rong@asu.edu",
+			"TableauKey": "TDDB-EC87-1090-8AFC-1EA1"
+		}
+	]
+}
